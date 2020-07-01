@@ -1,0 +1,88 @@
+section{
+    padding: 7% 15%;
+ 
+}
+.div1{
+  width: 90%;
+  background-position: left;
+  height: 450px;
+  background-repeat: none;
+  background-size: cover;
+}
+.div1image{
+    background-image: url("images/header-bg.png");
+  }
+.div2image{
+  background-image: url("images/biography-bg.png");
+}
+.div3image{
+    background-image: url("images/latest-work-bg.png");
+  }
+  .div4image{
+    background-image: url("images/footer-bg.png");
+  }
+.first-half{
+    width: 40%;
+    float: left;
+    padding: 5%;
+    padding-right: 0%;
+    text-align: justify;
+}
+.second-half{
+    width: 40%;
+    float: left;
+    padding: 5%;
+    padding-left: 0%;
+    text-align: justify;
+}
+.latest-work{
+    font-size: 40px;
+}
+.third-half{
+    width: 30%;
+    float: left;
+    padding: 2%;
+    padding-left: 0%;
+    text-align: justify;
+}
+h2{
+    font-weight: 100;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    font-weight: bolder;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.link-button{
+    text-decoration: none;
+    background-color: hotpink;
+    color: white;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.half-width-image{
+    width: 80%;
+    padding-left: 0;
+}
+.half-width-image2{
+    width: 80%;
+    padding-left: 50px;
+}
+.half-width-image3{
+    width: 100%;
+    padding: none;
+}
+#center-align{
+    text-align: center;
+}
+.div2{
+    width: 50%;
+    height: 100px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 20px 50px;
+    color: lightcyan;
+    background-image: linear-gradient(90deg, hotpink,rgb(228, 89, 79));
+    border-radius: 5px;
+   }
